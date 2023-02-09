@@ -1271,11 +1271,6 @@ textarea.form-input::-webkit-resizer {
     transition: var(--transition-1);
 }
 
-.form-cen {
-    align-items: center;
-    justify-content: center;
-}
-
 .form-txt {
     position: relative;
     width: 100%;
